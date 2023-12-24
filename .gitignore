@@ -1,0 +1,6 @@
+*.safetensor
+example.py
+*.pyc
+lyttest.py
+.idea
+*.txt
