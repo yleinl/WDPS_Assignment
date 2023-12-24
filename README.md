@@ -1,5 +1,7 @@
 # Introduction
 This is the assignment for the course Web Data Processing System.
+Contributors: Yitao Lei, Ivy Rui Wang, Zhongyu Shi
+Tester: Delong Yuan
 ## Modules
 - [x] Answer Extraction
   - [x] Question Classifier 
